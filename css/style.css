@@ -683,7 +683,7 @@ body {
 	
 	.button.default {
 		border-color: #cfcfcf;
-		color: #EE3224;
+		color: #5b5e60;
 	}
 
 	.button.default:hover { 
@@ -1091,7 +1091,11 @@ body {
 			height: 100%;
 			background-position: center center;
 			background-repeat: no-repeat;
-		}	
+		}
+
+		.li {
+			display: none;
+		}
 		
 		.no-touch .fullscreen-image {
 			background-attachment: fixed;
@@ -1282,7 +1286,7 @@ body {
 			}
 
 			.section-title h2 {
-				text-transform: uppercase;
+				/*text-transform: uppercase;*/
 				font-weight: 300;
 			}
 		
@@ -1353,7 +1357,7 @@ body {
 			
 			/* BG Color for Image Parallax */
 		
-			.bg-turquoise-color { background-color: #EE3224; }
+			.bg-turquoise-color { background-color: transparent; }
 			.bg-dark-color		{ background-color: #000;    }
 			
 			/* BG Color */
@@ -1379,7 +1383,7 @@ body {
 			}
 			
 			.bg-turquoise-color .full-bg-image {
-				opacity: .07;
+				opacity: 1;
 				filter: alpha(opacity = 7);
 			}
 			
