@@ -68,7 +68,7 @@
 }
 
 .ls-accio .ls-nav-next:hover:after,
-.ls-accio .ls-nav-prev:hover:after { color: #00c2a9; }
+.ls-accio .ls-nav-prev:hover:after { color: #ee3224; }
 
 .ls-accio .ls-nav-prev:after { content: "\ea07"; }
 .ls-accio .ls-nav-next:after { content: "\ea08"; }

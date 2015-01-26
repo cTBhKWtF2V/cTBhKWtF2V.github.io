@@ -43,7 +43,7 @@
 		.flexslider .slides > li {
 			display: none;
 			-webkit-backface-visibility: hidden;
-			text-align: center;
+			text-align: left;
 		} 
 
 		.no-js .slides > li:first-child {display: block;}
@@ -93,7 +93,7 @@ html[xmlns] .slides { display: block; }
 
 .flex-direction-nav a:hover { 
 	border-color: transparent;
-	background-color: #00c2a9; 
+	background-color: #EE3224; 
 }
 
 .flex-direction-nav .flex-disabled {
@@ -104,7 +104,7 @@ html[xmlns] .slides { display: block; }
 
 .flex-direction-nav a:before {
 	display: block;
-	color: #00c2a9;
+	color: #EE3224;
 	font-size: 30px; 
 	font-family: 'fontello';
 	line-height: 68px;
@@ -209,7 +209,7 @@ html[xmlns] .slides { display: block; }
 		
 		.flex-control-thumbs .flex-active {
 			border-color: transparent;
-			background-color: #00c2a9;
+			background-color: #EE3224;
 		}
 		
 		.flex-control-thumbs .flex-active:before { color: #fff; }
@@ -218,7 +218,7 @@ html[xmlns] .slides { display: block; }
 			color: #5b5e60;
 			font-size: 18px;
 			font-family: 'Roboto Condensed', sans-serif;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 		}
 		
 @media only screen and (min-width: 993px) and (max-width: 1200px) {

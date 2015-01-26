@@ -737,7 +737,7 @@
 			},
 			queryLoader: function (self, $window) {
 				this.el.queryLoader2({
-					barColor: '#00c2a9',
+					barColor: '#EE3224',
 					backgroundColor: '#fff',
 					percentage: true,
 					barHeight: 3,
