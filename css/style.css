@@ -685,6 +685,9 @@ body {
 		border-color: #cfcfcf;
 		color: #5b5e60;
 	}
+	.button.testimonial{
+		color: #000;
+	}
 
 	.button.default:hover { 
 		border-color: transparent;
