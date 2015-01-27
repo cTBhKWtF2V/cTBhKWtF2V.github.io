@@ -830,8 +830,8 @@ body {
 			.transparent .navigation > ul > li > a:after { color: #fff; }
 			
 			@media only screen and (min-width: 1025px) {
-				.transparent .navigation > ul > li > a				  { padding: 90px 20px 35px;	  }
-				.transparent .navigation > ul > li.downarrowclass > a { padding: 90px 15px 35px 20px; }
+				.transparent .navigation > ul > li > a				  { padding: 50px 20px 35px;	  }
+				.transparent .navigation > ul > li.downarrowclass > a { padding: 50px 15px 35px 20px; }
 			}
 			
 			@media only screen and (min-width: 993px) {
