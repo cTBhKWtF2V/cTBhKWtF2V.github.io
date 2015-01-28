@@ -861,7 +861,7 @@ body {
 			.navigation > ul > .current_page_item > a,
 			.navigation > ul > .current_page_parent > a,
 			.navigation > ul > .current_page_ancestor > a { 
-				background-color: #EE3224;
+				background-color: rgb(212,213,205);
 				color: #fff;
 			}
 
