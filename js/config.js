@@ -125,11 +125,11 @@
 			/* ---------------------------------------------------- */
 
 			objGoogleMap : {
-				address: 'New York, USA',					   // City, County
+				address: 'Melbourne, Australia',					   // City, County
 				markers: [
-					{'address' : 'Grand St, New York'}		   // Street
+					{'address' : '124 La Trobe Street, Melbourne'}		   // Street
 				],
-				zoom: 14,									   // 0 - 21	
+				zoom: 15,									   // 0 - 21	
 				scrollwheel: false,							   // Boolean: true / false
 				maptype : 'roadmap'							   // Maptype: roadmap, satellite, hybrid, terrain
 			},
